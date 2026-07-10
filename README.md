@@ -8,7 +8,6 @@ An interactive, end-to-end Power BI dashboard designed to track, analyze, and vi
 
 | Desktop View |
 | --- |
-| ![Dashboard Screenshot](path/to/your/screenshot.jpg) | 
 *Note: Replace the path above with your actual uploaded image link.*
 
 ---
