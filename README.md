@@ -1,16 +1,6 @@
 # E-Comerce-Analytics-Dashboard
-## 📝 GitHub Repository Short Description *Use this 1–2 sentence summary for the "About" section on the right side of your GitHub repository page:*  > "An interactive Power BI dashboard tracking $40M+ in e-commerce performance. Analyzes YoY sales trends, profit margins, customer demographics, and order fulfillment logistics using advanced DAX."
-# E-Commerce Analytics Dashboard
-
+## 📝 GitHub Repository Short Description *Use this 1–2 sentence summary for the "About" section on the right side of your GitHub repository page:*  > "An interactive Power BI dashboard tracking $40M+ in e-commerce performance. Analyzes YoY sales trends, profit margins, customer demographics, and order fulfillment logistics using advanced DAX.
 An interactive, end-to-end Power BI dashboard designed to track, analyze, and visualize critical e-commerce performance metrics. This project transforms raw e-commerce data into actionable business insights, helping stakeholders monitor sales trends, profitability, customer behaviors, and operational efficiency.
-
-## 📊 Dashboard Preview
-
-| Desktop View |
-| --- |
-*Note: Replace the path above with your actual uploaded image link.*
-
----
 
 ## 🚀 Key Features & Insights
 
